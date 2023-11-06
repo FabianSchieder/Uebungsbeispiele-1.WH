@@ -16,7 +16,6 @@ int main()
 
     evenNumbers(numberOne, numberTwo);
 
-    cin >> numberTwo;
     return 0;
 }
 
