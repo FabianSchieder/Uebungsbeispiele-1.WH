@@ -13,7 +13,6 @@ int main()
 
     cout << "Umgedreht: " << turnWord(input);
 
-    cin >> input;
     return 0;
 }
 
