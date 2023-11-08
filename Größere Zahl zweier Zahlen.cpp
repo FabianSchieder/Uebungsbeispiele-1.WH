@@ -26,6 +26,9 @@ float smallerNumber(float numberOne, float numberTwo)
     {
         return numberOne;
     }
+	else
+	{
+    	return numberTwo;
+	}
 
-    return numberTwo;
 }
